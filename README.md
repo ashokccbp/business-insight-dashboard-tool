@@ -226,11 +226,11 @@ npm run lint
 5. **Attention to Detail**: Polished animations, loading states, and error handling
 
 ## 📞 Contact & Links
-
-- **Live Demo**: [Add your deployment link here]
-- **Video Walkthrough**: [Add your Loom link here]
-- **Portfolio**: [Your portfolio website]
-- **LinkedIn**: [Your LinkedIn profile]
+- **Github Repo**: https://github.com/ashokccbp/business-insight-dashboard-tool.git
+- **Live Demo**: https://www.loom.com/share/e03e05b0ec874f438ac4c90c030ab8f3?sid=61cb1e0c-6fb2-4512-9a86-1d73a2c517cb
+- **Vercel Deployed link**: https://business-insight-dashboard-tool.vercel.app/
+- **Portfolio**: https://my-portofolio-xi-cyan.vercel.app/
+- **LinkedIn**: https://www.linkedin.com/in/gashokkumarreddy/
 
 ---
 
